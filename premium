@@ -53,6 +53,7 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 http://103.186.200.4:8000/play/a00g
 
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/antv.png", ANTV
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wdM8Ong1elDDOOZmlLuGc_c/ts
 http://202.150.161.116:80/ANTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/net.png", NET.
@@ -61,6 +62,7 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
 http://rr2.dens.tv/s/s08/index10.m3u8
 
 #EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/rtv.png", RTV
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wXxjvheB6gmrMxHQB3Xl1ZI/ts
 http://202.150.172.4:4000/play/rajawalitv
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/8
 
@@ -78,6 +80,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 http://103.186.200.4:8000/play/a00a
 
 #EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/tvone.png", TVONE
+http://iptvtree.net:8080/nika/ee07c53d/296214
 http://rr2.dens.tv/s/s105/01.m3u8
 http://103.186.200.4:8000/play/a00c
 
@@ -94,10 +97,11 @@ http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/12
 
 #EXTINF:-1 tvg-id="MagnaChannel.MACAN" tvg-name="MagnaChannel.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/magnachannel.png", MAGNA
-http://202.150.172.4:4000/play/MagnaChannel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+http://202.150.172.4:4000/play/MagnaChannel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BNTV_Indonesia.png" group-title="LOKAL NASIONAL",BN TV
+http://103.167.167.5:8111/play/a00b/index.m3u8
 http://202.150.172.4:4000/play/bntv
 
 #EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/tvri.png", TVRI Nasional
@@ -107,6 +111,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="seatoday.MACAN" tvg-name="seatoday.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/seatoday.png", SEA Today
+https://bit.ly/3aSmTUm
 https://live-production.secureswiftcontent.com/exp=1667962446~acl=/hls-p/ingest_7687_*/*~hmac=4318b59f0e7f38454f4bc96372ba9888992dce3bae901ae885c783220a93e682/hls-p/ingest_7687_720p/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZnwMRADrZuB_lU9zxyTwV_h5pcb5IX-dbcKt0qyAZal0RM3Z0L-oYJb21jhOpXq2Ehzw&usqp=CAU", BeritaSatu
@@ -125,10 +130,10 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/2.m3u8
 #EXTINF:-1 tvg-id="Erz.theidchtv" group-title="LOKAL NASIONAL" tvg-logo="https://i.ibb.co/4424QQY/the-indonesia-channel.png",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 tvg-id="CitraDangdut.MACAN" tvg-name="CitraDangdut.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/citra_dangdut.png", Citra Dangdut
+EXTINF:-1 tvg-id="CitraDangdut.MACAN" tvg-name="CitraDangdut.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/citra_dangdut.png", Citra Dangdut
 http://tv.zonanime.my.id/vidio/citradangdut.m3u8
 
-#EXTINF:-1 tvg-id="CitraDrama.MACAN" tvg-name="CitraDrama.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/citra_drama.png", Citra Drama
+EXTINF:-1 tvg-id="CitraDrama.MACAN" tvg-name="CitraDrama.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://cdn.macan.tv/img/citra_drama.png", Citra Drama
 http://tv.zonanime.my.id/vidio/citradrama.m3u8
 
 #EXTINF:-1 tvg-id="DuniaLain.MACAN" tvg-name="DuniaLain.MACAN" group-title="LOKAL NASIONAL" tvg-logo="https://about.vidio.com/wp-content/uploads/2019/09/Mobile.png", Citra Bioskop
